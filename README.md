@@ -38,7 +38,7 @@
       </tr>
       <tr>
         <td><a href="https://boostcamp.connect.or.kr" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</td>
-        <td>2024.06 - 2024.08</td>
+        <td>2025.07 -</td>
       </tr>
     </tbody>
   </table>
