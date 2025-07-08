@@ -29,7 +29,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>한양대학교 생명공학과 졸업</td>
+        <td><a href="http://bioeng.hanyang.ac.kr/" target="_blank">한양대학교 생명공학과 졸업</td>
         <td>2017.03 - 2024.06</td>
       </tr>
        <tr>
