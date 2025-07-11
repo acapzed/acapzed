@@ -1,62 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<div>
+  <h3>안녕하세요, 재밌는 서비스를 만드는 김 민재입니다. 잘 부탁드립니다.</h3>
 
-  <h3>🔥 Strong Tech Stack 🔥</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp; 
-</p>
-
-<h3>💡 Knowledgeable Tech Stack 💡</h3>
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp; 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp; 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
-</p>
-
-  
-  <br><br>
-
-  <h3>📝 Experience 📝</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Experience</th>
-        <th>Duration</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="http://bioeng.hanyang.ac.kr/" target="_blank">한양대학교 생명공학과 졸업</td>
-        <td>2017.03 - 2024.06</td>
-      </tr>
-       <tr>
-        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</td>
-        <td>2024.06 - 2024.08</td>
-      </tr>
-      <tr>
-        <td><a href="https://boostcamp.connect.or.kr" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</td>
-        <td>2025.07 -</td>
-      </tr>
-    </tbody>
-  </table>
-
+  <h3>✨ Experience</h3>
+  <ul>
+    <li><a href="http://bioeng.hanyang.ac.kr/" target="_blank">한양대학교 생명공학과 졸업</a> 2017.03 - 2024.06</li>
+    <li><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</a> 2024.06 - 2024.08</li>
+    <li><a href="https://boostcamp.connect.or.kr" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</a> 2025.07 - 진행중</li>
+  </ul>
 <br>
 
-<h3>(ꔷ̥̑.̮ꔷ̥̑) Problem Solving (ꔷ̥̑.̮ꔷ̥̑)</h3>
+<h3>🧩 Problem Solving</h3>
   <a href="https://solved.ac/acapz">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
   </a>
   
-<br><br><br>
+<br>
 
+<h3>Stat</h3>
 <img src="https://ghchart.rshah.org/33333/acapzed" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=acapzed&show_icons=true" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acapzed&layout=compact)
-
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
 
 </div>
