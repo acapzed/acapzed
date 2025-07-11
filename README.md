@@ -13,10 +13,5 @@
 <a href="https://solved.ac/acapz">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
 </a>
-  
-<br>
-
-<h3>Stat</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=acapzed&show_icons=true" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acapzed&layout=compact)
 
 </div>
