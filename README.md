@@ -7,11 +7,15 @@
     <li><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</a> 2024.06 - 2024.08</li>
     <li><a href="https://boostcamp.connect.or.kr" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</a> 2025.07 - 진행중</li>
   </ul>
-<br>
 
-<h3>🧩 Problem Solving</h3>
-<a href="https://solved.ac/acapz">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
-</a>
+  <h3>🛠️ Project</h3>
+  <ul>
+    <li>Lostark Simulator</li>
+  </ul>
+  
+  <h3>🧩 Problem Solving</h3>
+  <a href="https://solved.ac/acapz">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
+  </a>
 
 </div>
