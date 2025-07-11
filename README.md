@@ -10,7 +10,7 @@
 
   <h3>🛠️ Project</h3>
   <ul>
-    <li>Lostark Simulator</li>
+    <li>Lostark Simulator 개발중</li>
   </ul>
   
   <h3>🧩 Problem Solving</h3>
