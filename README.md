@@ -18,7 +18,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
   </a>
 
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+  ![](./profile-3d-contrib/profile-night-view.svg)
 
 
 </div>
