@@ -20,8 +20,6 @@
 
 
   <h3>🌿 3D 잔디심기</h3>
-  
-  ![](./profile-3d-contrib/profile-night-view.svg)
-
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="400" height="300" alt="3D Contribution Profile">
 
 </div>
