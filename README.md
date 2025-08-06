@@ -13,6 +13,13 @@
     <li>Lostark Simulator 개발중</li>
   </ul>
 
+  <h3>🏫 Learning</h3>
+  <p>
+    <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
+    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>&nbsp;
+  </p>
+
   <h3>📚 Stacks</h3>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
@@ -27,12 +34,10 @@
     <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
   </p>
 
-  
   <h3>🧩 Problem Solving</h3>
   <a href="https://solved.ac/acapz">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
   </a>
-
 
   <h3>🌿 3D 잔디심기</h3>
   <img src="./profile-3d-contrib/profile-night-view.svg" width="400" height="300" alt="3D Contribution Profile">
