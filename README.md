@@ -10,7 +10,7 @@
 
   <h3>🛠️ Project</h3>
   <ul>
-    <li>Lostark Simulator 개발중</li>
+    <li><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a> 개발중</li>
   </ul>
 
   <h3>🏫 Learning</h3>
