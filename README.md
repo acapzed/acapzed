@@ -13,7 +13,7 @@
     <li>
       <strong><a href="https://github.com/acapzed/cssite">CSSite</a></strong>
       <p>AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼</p>
-      <img src="cssite_pic.png" alt="CSSite Preview" width="400">
+      <img src="cssite_pic.png" alt="CSSite Preview" width="600">
     </li>
     <li>
       <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중)
