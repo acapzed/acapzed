@@ -10,9 +10,16 @@
 
   <h3>🛠️ Project</h3>
   <ul>
-    <li><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a> 개발중</li>
+    <li>
+      <a href="https://github.com/acapzed/cssite">CSSite</a>
+      <p>AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼</p>
+    </li>
+    <li>
+      <a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a> 개발중
+      <p>로스트아크 게임 시뮬레이터</p>
+    </li>
   </ul>
-
+  
   <h3>😶‍🌫️ Thinking... </h3>
   <p>
     <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
