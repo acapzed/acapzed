@@ -11,7 +11,7 @@
   <h3>🛠️ Project</h3>
   <ul>
     <li>
-      <a href="https://github.com/acapzed/cssite">CSSite</a>
+      <a href="https://github.com/acapzed/cssite">CSSite</a><br>
       <img src="cssite_pic.png" alt="CSSite Preview" width="300">
       <p>AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼</p>
     </li>
