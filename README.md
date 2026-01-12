@@ -18,7 +18,7 @@
     <li>
       <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중)
       <p>로스트아크 게임 시뮬레이터</p>
-      <img src="lostark_simulator_pic.png" alt="Lostark Simulator Preview" width="600">
+      <img src="lostarksim_pic.png" alt="Lostark Simulator Preview" width="600">
     </li>
   </ul>
   
