@@ -35,9 +35,4 @@
     <a href="https://go.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/></a>&nbsp;
   </p>
 
-  <h3>🧩 Problem Solving</h3>
-  <a href="https://solved.ac/acapz">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
-  </a>
-
 </div>
