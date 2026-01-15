@@ -11,14 +11,10 @@
   <h3>🛠️ Project</h3>
   <ul>
     <li>
-      <strong><a href="https://github.com/acapzed/cssite">CSSite</a></strong>
-      <p>AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼</p>
-      <img src="cssite_pic.png" alt="CSSite Preview" width="600">
+      <strong><a href="https://github.com/acapzed/cssite">CSSite</a></strong> - AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼
     </li>
     <li>
-      <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중)
-      <p>로스트아크 게임 시뮬레이터</p>
-      <img src="lostarksim_pic.png" alt="Lostark Simulator Preview" width="600">
+      <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터
     </li>
   </ul>
   
