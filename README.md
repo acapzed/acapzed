@@ -15,6 +15,7 @@
     </li>
     <li>
       <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터
+      <li>https://lostarksim.me</li>
     </li>
   </ul>
   
