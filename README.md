@@ -16,6 +16,9 @@
     <li>
       <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터 / https://lostarksim.com / https://dev.lostarksim.com
     </li>
+    <li>
+      <strong><a href="https://github.com/acapzed/gumibab">Gumibab</a></strong> 구미 캠퍼스 식단안내 확장프로그램 / https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple
+    </li>
   </ul>
   
   <h3>Stack </h3>
