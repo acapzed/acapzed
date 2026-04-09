@@ -18,6 +18,7 @@
     </li>
     <li>
       <strong><a href="https://github.com/acapzed/gumibab">Gumibab</a></strong> - 구미 캠퍼스 식단안내 확장프로그램 / https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple
+      <strong><a href="https://github.com/acapzed/IdeaToMap">IdeaToMap</a></strong> - AI와 대화하며 프로젝트 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구
     </li>
   </ul>
   
