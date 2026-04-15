@@ -10,31 +10,22 @@
 
   <h3>Project</h3>
   <ul>
-    <li>
-      <strong><a href="https://github.com/acapzed/cssite">CSSite</a></strong> - AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼 / (down)
-    </li>
-    <li>
-      <strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터 / https://lostarksim.com / https://dev.lostarksim.com
-    </li>
-    <li>
-      <strong><a href="https://github.com/acapzed/gumibab">Gumibab</a></strong> - 구미 캠퍼스 식단안내 확장프로그램 / https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple
-    </li>
-    <li>
-      <strong><a href="https://github.com/acapzed/IdeaToMap">IdeaToMap</a></strong> - AI와 대화하며 프로젝트 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구
-    </li>
+    <li><strong><a href="https://github.com/acapzed/cssite">CSSite</a></strong> - AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼 / (down)</li>
+    <li><strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터 / https://lostarksim.com / https://dev.lostarksim.com</li>
+    <li><strong><a href="https://github.com/acapzed/gumibab">Gumibab</a></strong> - 구미 캠퍼스 식단안내 확장프로그램 / https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple</li>
+    <li><strong><a href="https://github.com/acapzed/IdeaToMap">IdeaToMap</a></strong> - AI와 대화하며 프로젝트 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구</li>
   </ul>
 
   <h3>Stack</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-  </p>
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 </div>
