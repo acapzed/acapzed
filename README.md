@@ -13,7 +13,7 @@
     <li><strong><a href="https://github.com/acapzed/cssite">CSSite</a></strong> - AI 기반 CS 논문/영상 요약 및 맞춤형 학습 플랫폼 / (down)</li>
     <li><strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터 / https://lostarksim.com / https://dev.lostarksim.com</li>
     <li><strong><a href="https://github.com/acapzed/gumibab">Gumibab</a></strong> - 구미 캠퍼스 식단안내 확장프로그램 / https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple</li>
-    <li><strong><a href="https://github.com/acapzed/IdeaToMap">IdeaToMap</a></strong> - AI와 대화하며 프로젝트 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구</li>
+    <li><strong><a href="https://github.com/acapzed/sharp">Sharp</a></strong> - AI와 대화하며 프로젝트 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구</li>
   </ul>
 
   <h3>Stack</h3>
