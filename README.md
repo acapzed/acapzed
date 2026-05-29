@@ -1,6 +1,4 @@
 <div>
-  <h3>안녕하세요, 재밌는 서비스를 만드는 김민재입니다.</h3>
-
   <h3>Experience</h3>
   <ul>
     <li><a href="http://bioeng.hanyang.ac.kr/" target="_blank">한양대학교 생명공학과 졸업</a> 2017.03 - 2024.06</li>
