@@ -3,7 +3,7 @@
   <ul>
     <li><a href="http://bioeng.hanyang.ac.kr/" target="_blank">한양대학교 생명공학과 졸업</a> 2017.03 - 2024.06</li>
     <li><a href="https://boostcamp.connect.or.kr" target="_blank">네이버 부스트캠프 웹·모바일 9기</a> 2024.06 - 2024.08</li>
-    <li><a href="https://www.ssafy.com" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</a> 2025.07 - 진행중</li>
+    <li><a href="https://www.ssafy.com" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</a> 2025.07 - 2026.07</li>
   </ul>
 
   <h3>Project</h3>
