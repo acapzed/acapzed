@@ -35,5 +35,5 @@
   <h3>My blog</h3>
   <p><a href=https://acapz.dev>acapz.dev</p>
 
-  <h3>Please contact in : kmj9870@gmail.com</h3>
+  <h3>Please contact at : kmj9870@gmail.com</h3>
 </div>
