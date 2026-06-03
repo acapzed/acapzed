@@ -31,9 +31,5 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-
-  <h3>My blog</h3>
-  <p><a href=https://acapz.dev>acapz.dev</p>
-
   <h3>Please contact at : kmj9870@gmail.com</h3>
 </div>
