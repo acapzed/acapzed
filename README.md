@@ -15,9 +15,7 @@
     <li><strong><a href="https://github.com/acapzed/lostark-simulator">Lostark Simulator</a></strong> (개발중) - 로스트아크 게임 시뮬레이터 / https://lostarksim.com / https://dev.lostarksim.com</li>
     <li><strong><a href="https://github.com/acapzed/gumibab">Gumibab</a></strong> - 구미 캠퍼스 식단안내 확장프로그램 / https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple</li>
     <li><strong><a href="https://github.com/acapzed/sharp">Sharp</a></strong> - AI와 대화하며 프로젝트 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구</li>
-    <li><strong><a href="https://github.com/acapzed/jalkiwotda-hsr">이잘키 정오표(붕괴 스타레일)</a></strong> - 커뮤니티 스탯표를 내 데이터랑 비교해주는 정오표</li>
-    <li><strong><a href="https://github.com/acapzed/jalkiwotda-genshin">이잘키 정오표(원신)</a></strong></li>
-    <li><strong><a href="https://github.com/acapzed/jalkiwotda-zzz">이잘키 정오표(젠레스존제로)</a></strong></li>
+    <li><strong><a href="https://github.com/acapzed/jalkiwotda-hsr">이잘키 정오표(붕괴 스타레일)</a> / <a href="https://github.com/acapzed/jalkiwotda-genshin">이잘키 정오표(원신)</a> / <a href="https://github.com/acapzed/jalkiwotda-zzz">이잘키 정오표(젠레스존제로)</a></strong> - 커뮤니티 스탯표를 내 데이터랑 비교해주는 정오표</li>
   </ul>
 
   <h3>Stack</h3>
