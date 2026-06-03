@@ -6,7 +6,7 @@
     <li><a href="https://www.ssafy.com" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</a> 2025.07 - 2026.07</li>
   </ul>
   
-### 🎓 SSAFY Team Projects
+### SSAFY Team Projects
 
 | Project | Description |
 |---------|-------------|
@@ -15,7 +15,7 @@
 | [내 요리를 부탁해](https://github.com/acapzed/please-cook-for-me) | 2인 협동 / 정보 비대칭 요리 게임 |
 | [우주오락실](https://github.com/acapzed/space-arcade) | 최대 100명 실시간 멀티플레이 미니게임 파티 플랫폼 |
 
-### 🛠️ Personal Projects
+### Personal Projects
 
 | Project | Description |
 |---------|-------------|
