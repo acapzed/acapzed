@@ -22,7 +22,7 @@
 | [Lostark Simulator](https://github.com/acapzed/lostark-simulator) | 로스트아크 게임 시뮬레이터 · [lostarksim.com](https://lostarksim.com) |
 | [Gumibab](https://github.com/acapzed/gumibab) | 구미 캠퍼스 식단안내 확장프로그램 · [Chrome Web Store](https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple) |
 | [Sharp](https://github.com/acapzed/sharp) | AI와 대화하며 아이디어를 현실적인 계획으로 구체화하는 플래닝 도구 |
-| [이잘키 정오표](https://github.com/acapzed/jalkiwotda-hsr) | 커뮤니티 스탯표 ↔ 내 데이터 비교 · [HSR](https://github.com/acapzed/jalkiwotda-hsr) / [원신](https://github.com/acapzed/jalkiwotda-genshin) / [ZZZ](https://github.com/acapzed/jalkiwotda-zzz) |
+| [이잘키 정오표](https://github.com/acapzed/jalkiwotda-hoyoverse) | 커뮤니티 스탯표 ↔ 내 데이터 비교 |
 
   <h3>Stack</h3>
 
