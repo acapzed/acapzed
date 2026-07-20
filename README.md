@@ -5,6 +5,13 @@
     <li><a href="https://boostcamp.connect.or.kr" target="_blank">네이버 부스트캠프 웹·모바일 9기</a> 2024.06 - 2024.08</li>
     <li><a href="https://www.ssafy.com" target="_blank">삼성청년SW·AI아카데미(SSAFY) 14기</a> 2025.07 - 2026.07</li>
   </ul>
+
+  <h3>Awards</h3> 
+  <ul> 
+    <li> <strong>내 요리를 부탁해</strong> — SSAFY 프로젝트 3위 장려상 <br /> 2인 협동 정보 비대칭 요리 시뮬레이션 Unity 프로젝트 </li> 
+    <li> <strong>우주오락실</strong> </a> — SSAFY 프로젝트 3위 장려상 <br /> 최대 100명이 동시에 참여하는 실시간 멀티플레이 미니게임 파티 플랫폼 </li> 
+  </ul>
+  
   
 ### SSAFY Team Projects
 
