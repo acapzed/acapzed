@@ -8,8 +8,8 @@
 
   <h3>Awards</h3> 
   <ul> 
-    <li> <strong>내 요리를 부탁해</strong> — SSAFY 프로젝트 3위 장려상 <br /> 2인 협동 정보 비대칭 요리 시뮬레이션 Unity 프로젝트 </li> 
-    <li> <strong>우주오락실</strong> </a> — SSAFY 프로젝트 3위 장려상 <br /> 최대 100명이 동시에 참여하는 실시간 멀티플레이 미니게임 파티 플랫폼 </li> 
+    <li> <strong>내 요리를 부탁해</strong> — SSAFY 특화 프로젝트 3위 장려상 <br /> 2인 협동 정보 비대칭 요리 시뮬레이션 Unity 프로젝트 </li> 
+    <li> <strong>우주오락실</strong> </a> — SSAFY 자율 프로젝트 3위 장려상 <br /> 최대 100명이 동시에 참여하는 실시간 멀티플레이 미니게임 파티 플랫폼 </li> 
   </ul>
   
   
