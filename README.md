@@ -9,28 +9,15 @@
 
 - **Lostark Simulator** - A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. (lostarksim.com) / current private
 
-::github{repo="acapzed/lostark-simulator"}
-
 - **이잘키 정오표** - [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ilgdadofigikokamdfgamikpdgbhkgeo)](https://chromewebstore.google.com/detail/ilgdadofigikokamdfgamikpdgbhkgeo?utm_source=item-share-cb) Browser extension for generating Hoyoverse-game build benchmark reports from HoYoLAB pages.
-
-::github{repo="acapzed/jalkiwotda-hoyoverse"}
 
 - **Gumibab** - [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/bjlhbdemdpjgmkpndphcfhnnhdknaple)](https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple) A Chrome extension for diet management, 
 built during SSAFY Gumi Campus.
 
-::github{repo="acapzed/gumibab"}
-
 - **Sharp** - AI-guided Q&A tool that sharpens a vague project idea 
 into a structured plan and mindmap.
 
-::github{repo="acapzed/sharp"}
-
 - **Waifu** - Waifu is a digital character companion platform that makes anime- and game-inspired characters feel like they are actually living inside the user's devices. / current private
-
-::github{repo="acapzed/waifu"}
-
-
-더 많은 프로젝트 진행중!
 
 # Experiences
 
@@ -62,3 +49,5 @@ into a structured plan and mindmap.
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+# Please contact me at kmj9870@gmail.com
