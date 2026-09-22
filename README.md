@@ -50,4 +50,3 @@ into a structured plan and mindmap.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-# Please contact me at kmj9870@gmail.com
