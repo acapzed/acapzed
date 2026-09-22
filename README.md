@@ -5,7 +5,7 @@
 
 # Projects
 
-- **Lostark Simulator** - A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. (lostarksim.com) / current private
+- **Lostark Simulator** - A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. (lostarksim.com)
 
 - **이잘키 정오표** - [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ilgdadofigikokamdfgamikpdgbhkgeo)](https://chromewebstore.google.com/detail/ilgdadofigikokamdfgamikpdgbhkgeo?utm_source=item-share-cb) Browser extension for generating Hoyoverse-game build benchmark reports from HoYoLAB pages.
 
@@ -15,7 +15,7 @@ built during SSAFY Gumi Campus.
 - **Sharp** - AI-guided Q&A tool that sharpens a vague project idea 
 into a structured plan and mindmap.
 
-- **Waifu** - Waifu is a digital character companion platform that makes anime- and game-inspired characters feel like they are actually living inside the user's devices. / current private
+- **Waifu** - Waifu is a digital character companion platform that makes anime- and game-inspired characters feel like they are actually living inside the user's devices.
 
 # Experiences
 
