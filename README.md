@@ -5,7 +5,7 @@
 
 # Projects
 
-- **Lostark Simulator** - [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flostarksim.com&label=Lost%20Ark%20Simulator&up_message=Online&down_message=Offline)](https://lostarksim.com) A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. (lostarksim.com)
+- **Lostark Simulator** - [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flostarksim.com&label=Status&up_message=Online&down_message=Offline)](https://lostarksim.com) A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. (lostarksim.com)
 
 - **이잘키 정오표** - [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ilgdadofigikokamdfgamikpdgbhkgeo)](https://chromewebstore.google.com/detail/ilgdadofigikokamdfgamikpdgbhkgeo?utm_source=item-share-cb) Browser extension for generating Hoyoverse-game build benchmark reports from HoYoLAB pages.
 
