@@ -2,14 +2,14 @@
 
 - 시뮬레이터와 재밌는 서비스를 만드는 것을 좋아합니다.
 - 서브컬쳐 게임과 RPG를 좋아합니다.
+- please contact me at kmj9870@gmail.com
 
 # Projects
 
-- **Lostark Simulator** - [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flostarksim.com&label=Status&up_message=Online&down_message=Offline)](https://lostarksim.com) A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. (lostarksim.com)
-    - [![Main Repo](https://img.shields.io/badge/Main-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator)
-    - [![Engine Repo](https://img.shields.io/badge/Engine-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator-engine)
-    - [![Research Repo](https://img.shields.io/badge/Research-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator-research)
-
+- **Lostark Simulator** - [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flostarksim.com&label=Status&up_message=Online&down_message=Offline)](https://lostarksim.com) A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. [lostarksim.com](lostarksim.com)
+    - [![Main Repo](https://img.shields.io/badge/Main-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator) private
+    - [![Engine Repo](https://img.shields.io/badge/Engine-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator-engine) public
+    - [![Research Repo](https://img.shields.io/badge/Research-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator-research) private
 
 - **이잘키 정오표** - [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ilgdadofigikokamdfgamikpdgbhkgeo)](https://chromewebstore.google.com/detail/ilgdadofigikokamdfgamikpdgbhkgeo?utm_source=item-share-cb) Browser extension for generating Hoyoverse-game build benchmark reports from HoYoLAB pages.
 
