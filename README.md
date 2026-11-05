@@ -6,7 +6,7 @@
 
 # Projects
 
-- **Lostark Simulator** - [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flostarksim.com&label=Status&up_message=Online&down_message=Offline)](https://lostarksim.com) A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. [lostarksim.com](lostarksim.com)
+- **Lostark Simulator** - [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flostarksim.com&label=Status&up_message=Online&down_message=Offline)](https://lostarksim.com) A web based DPS simulator for Lost Ark, built with Rust/WebAssembly for high-performance client-side computation. [lostarksim.com](https://lostarksim.com)
     - [![Main Repo](https://img.shields.io/badge/Main-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator) private
     - [![Engine Repo](https://img.shields.io/badge/Engine-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator-engine) public
     - [![Research Repo](https://img.shields.io/badge/Research-Repository-181717?style=flat-square&logo=github)](https://github.com/acapzed/lostark-simulator-research) private
